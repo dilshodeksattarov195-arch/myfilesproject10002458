@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpecrypt",
+        "uuid": 5414974,
+        "checksum": "5i9ltv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
